@@ -16,7 +16,7 @@
     <link href="<?php echo base_url().'assets/dist/css/AdminLTE.min.css'?>" rel="stylesheet" type="text/css" />
     <!-- AdminLTE Skins. Choose a skin from the css/skins
          folder instead of downloading all of them to reduce the load. -->
-    <link href="<?php echo base_url().'assets/dist/css/skins/_all-skins.min.css'?>" rel="stylesheet" type="text/css" />
+    <link href="<?php echo base_url().'assets/dist/css/skins/skin-green-light.min.css'?>" rel="stylesheet" type="text/css" />
     
     <link href="<?php echo base_url().'assets/plugins/iCheck/square/blue.css'?>" rel="stylesheet" type="text/css" />
     
